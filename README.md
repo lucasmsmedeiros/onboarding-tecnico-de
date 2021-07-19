@@ -18,11 +18,11 @@ Como tudo em nossos processos de engenharia de dados, queremos ter o máximo de 
 
 1) Clonar o repositório e subir uma cópia em sua conta github (ou gitlab);
 2) Criar uma nova branch **dev** para modificações;
-3) Convidar @neylsoncrepalde, @victors145 e @carlosbpy com permissão **Collaborator** (avaliar pushs e pull requests - ou similar no gitlab); 
+3) Convidar @neylsoncrepalde, @victors145, @dinizleonardo5, @RodrigoATorres e @carlosbpy com permissão **Collaborator** (avaliar pushs e pull requests - ou similar no gitlab); 
 4) Ler/assistir o conteúdo indicado;
 5) Realizar os exercícios propostos para cada módulo;
 6) Subir os exercícios na branch **dev**;
-7) Criar um Pull Request para a branch **main** no seu repositório e marcar @neylsoncrepalde, @victors145 e @carlosbpy como revisores!
+7) Criar um Pull Request para a branch **main** no seu repositório e marcar @neylsoncrepalde, @dinizleonardo5, @RodrigoATorres, @victors145 e @carlosbpy como revisores!
 
 **Partiu?**
 
