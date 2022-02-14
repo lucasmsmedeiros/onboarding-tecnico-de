@@ -31,6 +31,7 @@ Como tudo em nossos processos de engenharia de dados, queremos ter o máximo de 
 - @josecarlosbarbosa
 - @Westerley
 - @filipebrenoti
+- @Alexno9
 ``` 
 4) Ler/assistir o conteúdo indicado;
 5) Realizar os exercícios propostos para cada módulo;
@@ -43,20 +44,16 @@ Como tudo em nossos processos de engenharia de dados, queremos ter o máximo de 
 - @josecarlosbarbosa
 - @Westerley
 - @filipebrenoti
+- @Alexno9
 ``` 
 
 **Agora, vamos colocar a mão massa?**
 
 Seguem abaixo links para cada conteúdo:
 
-1) [Python - Conteúdo](1-python/1-1-python-conteudo.md)
-2) [Python - Exercícios](1-python/1-2-python-exercicios.md)
-3) [Spark - Conteúdo](2-spark/2-1-spark-conteudo.md)
-4) [Spark - Exercícios](2-spark/2-2-spark-exercicios.md)
-5) [Terraform - Conteúdo](3-terraform/3-1-terraform-conteudo.md)
-6) [Terraform - Exercícios](3-terraform/3-2-terraform-exercicios.md)
-7) [Airflow - Conteúdo](4-airflow/4-1-airflow-conteudo.md)
-8) [Airflow - Exercícios](4-airflow/4-2-airflow-exercicios.md)
-9) [Kafka - Conteúdo](5-kafka/5-1-kafka-conteudo.md)
-10) [Kafka - Exercícios](5-kafka/5-2-kafka-exercicios.md)
-
+1) [SQL](1-sql/onboarding-sql.ipynb)
+2) [PYTHON](1-python/1-2-python-exercicios.md)
+3) [SPARK](2-spark/2-2-spark-exercicios.md)
+4) [KAFKA](4-kafka/5-2-kafka-exercicios.md)
+5) [AIRFLOW](5-airflow/4-2-airflow-exercicios.md)
+6) [TERRAFORM](6-terraform/3-2-terraform-exercicios.md)
